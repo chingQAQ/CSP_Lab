@@ -7,6 +7,12 @@
   min-height: 100vh;
 }
 
+.main__s {
+    min-height: unset;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
